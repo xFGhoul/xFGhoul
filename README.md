@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on
- -Website
- -Discord Bot
+🔭 I’m currently working on -Website -Discord Bot
  
 
 🌱 I’m currently learning
@@ -17,3 +15,4 @@
   Reddit: GhoulIstaken
   Twitter: ghoulonosu
 
+ 
