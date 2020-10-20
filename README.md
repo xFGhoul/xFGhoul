@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on -Website -Discord Bot
+🔭 I’m currently working on an Website and an Discord Bot
  
 
 🌱 I’m currently learning
