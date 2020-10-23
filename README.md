@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.xfghoul.vercel.app/api/spotify)](https://open.spotify.com/user/v4ywvr4aqj8bt5w2zpx6t7iqg)
+[<img src="https://novatorem-sooty-kappa.vercel.app/api/spotify-playing" alt="Ghoul Spotify Playing" width="350" />](https://open.spotify.com/user/	v4ywvr4aqj8bt5w2zpx6t7iqg)
 
 ### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
