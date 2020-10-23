@@ -4,9 +4,6 @@
 - 🥅 2020 Goals: Make an useful API or extension
 - ⚡ Fun fact: I got into coding by wanting to create an robot to wash my dishes.
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-git-master.xfghoul.vercel.app/api/spotify-playing" alt="Ghoul Spotify Playing" width="350" />](https://open.spotify.com/user/v4ywvr4aqj8bt5w2zpx6t7iqg)
 
 ### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
