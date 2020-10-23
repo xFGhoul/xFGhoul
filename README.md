@@ -1,4 +1,4 @@
-### Hi there, I'm xFGhoul - aka [Ghoul][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Ghoul. <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make an useful API or extension
