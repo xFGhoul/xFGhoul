@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat" alt="xfghoul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ghoulonosu" target="blank"><img src="https://img.shields.io/twitter/follow/ghoulonosu?logo=twitter&style=for-the-badge" alt="ghoulonosu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xgohludev" target="blank"><img src="https://img.shields.io/twitter/follow/xghouldev?logo=twitter&style=for-the-badge" alt="xghouldev" /></a> </p>
 
 - 🔭 I’m currently working on **Discord Bot, Extension**
 
