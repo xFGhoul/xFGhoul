@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/xFGhoul](github.com/xFGhoul)
 
-- 📝 I regulary write articles on [https://medium.com/@ghouldev](https://medium.com/@ghouldev)
+
 
 - 📫 How to reach me **Ghoul#6969**
 
