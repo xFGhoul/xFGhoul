@@ -13,7 +13,7 @@
 
 
 
-- 📫 How to reach me **Ghoul#6969**
+- 📫 How to reach me [xGhoul#0001](discord.com)
 
 - ⚡ Fun fact **I learnt programming to automate washing dishes**
 
