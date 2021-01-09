@@ -13,7 +13,7 @@
 
 
 
-- 📫 How to reach me [xGhoul#0001](discord.com)
+- 📫 How to reach me [xGhoul#0001](https://discord.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
