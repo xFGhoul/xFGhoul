@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **Discord Bot, Dashboard, Browser Extension**
 
-- 🌱 I’m currently learning **Everything**
-
 - 👨‍💻 All of my projects are available at [github.com/xFGhoul](github.com/xFGhoul)
-
-
 
 - 📫 How to reach me [xGhoul#0001](https://discord.com)
 
