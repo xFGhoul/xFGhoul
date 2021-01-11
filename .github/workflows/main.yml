@@ -20,5 +20,5 @@ jobs:
           plugin_stars_limit: 4
           plugin_stargazers: yes
           plugin_followup: yes
-          token: ${{ secrets.METRICS_TOKEN }
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
