@@ -6,7 +6,7 @@
 <h4 align="center">Welcome to my Github! Here you will find all my current projects that I am working on/contributing too.</h4>
 
 <h3 align="left">Socials:</h3>
-<p align="left"> <a href="https://twitter.com/xghouldev" target="blank"><img src="https://img.shields.io/twitter/follow/xghouldev?logo=twitter&style=for-the-badge" alt="xghouldev" /></a>  </p>
+<p align="left"> <a href="https://twitter.com/xghouldev" target="blank"><img src="https://img.shields.io/twitter/follow/xghouldev?logo=twitter&style=for-the-badge" alt="xghouldev" /></a> </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>  </p>
