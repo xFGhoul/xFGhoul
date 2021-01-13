@@ -1,7 +1,7 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/023/138/759/original/helena-viana-anime-girl-welcome-by-ell.gif?1578239624" />
 
 <h1 align="center">Hi 👋, I'm Ghoul</h1>
-<h3 align="center">An upcoming Fullstack Web Developer and Game Developer</h3>
+<h3 align="center">Fullstack Web Developer and Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat" alt="xfghoul" /> </p>
 
