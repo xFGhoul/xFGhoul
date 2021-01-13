@@ -37,7 +37,7 @@
 
 
 <h3 align="left">Backend as a Service:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 <h3 align="left">Framework:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
