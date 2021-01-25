@@ -592,7 +592,7 @@
         <div class="field ">
           
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/></svg>
-            Joined GitHub 4 months ago
+            Joined GitHub 5 months ago
           
         </div>
         <div class="field">
@@ -2798,7 +2798,7 @@
                   
                   <div class="name">
                     <span>PySimpleGUI/PySimpleGUI</span>
-                    <span>starred 1 hour ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2845,7 +2845,7 @@
                   
                   <div class="name">
                     <span>numpy/numpy</span>
-                    <span>starred 1 hour ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2892,7 +2892,7 @@
                   
                   <div class="name">
                     <span>facebook/docusaurus</span>
-                    <span>starred 1 hour ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2939,7 +2939,7 @@
                   
                   <div class="name">
                     <span>tannerlinsley/react-table</span>
-                    <span>starred 3 hours ago</span>
+                    <span>starred 5 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3217,7 +3217,7 @@
       
         <footer>
           <span>These metrics include private contributions</span>
-          <span>Last updated Mon, 25 Jan 2021 18:25:36 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Mon, 25 Jan 2021 19:53:40 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
