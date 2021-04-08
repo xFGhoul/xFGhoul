@@ -1368,7 +1368,7 @@
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">
                                 google
                             </div>
-                            <div class="label" title="Awesome Lists, Go, Database, C#, JSON, iOS, Bash, Front end, .NET, Kubernetes, Chrome extension, Kotlin, jQuery, Bot, Framework, HTTP, Flask, Firebase, Command line interface, GraphQL, Electron, Markdown, Game engine, Minecraft, Material design, Library, Lua, Elixir, Nim, upptime">
+                            <div class="label" title="Go, Awesome Lists, Database, C#, JSON, iOS, Bash, Front end, .NET, Kubernetes, Chrome extension, Kotlin, jQuery, Bot, Framework, HTTP, Flask, Firebase, Command line interface, GraphQL, Electron, Markdown, Game engine, Minecraft, Material design, Library, Lua, Elixir, Nim, upptime">
                                 and 30 more...
                             </div>
                         </div>
@@ -3797,7 +3797,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Thu, 08 Apr 2021 08:23:26 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 08 Apr 2021 09:20:39 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
