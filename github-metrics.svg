@@ -1460,7 +1460,7 @@
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
-                            <div class="label" title="Google, Awesome Lists, Go, C#, JSON, Front end, Bash, iOS, .NET, Chrome extension, Kubernetes, Bot, Kotlin, Command line interface, jQuery, HTTP, Framework, Flask, Firebase, GraphQL, Electron, Markdown, Game engine, Minecraft, Material design, Library, Lua, Elixir, Nim, upptime">and 30 more...</div>
+                            <div class="label" title="Google, Awesome Lists, Go, C#, JSON, Front end, Bash, iOS, .NET, Chrome extension, Kubernetes, Bot, Kotlin, Command line interface, jQuery, Framework, HTTP, Flask, Firebase, GraphQL, Electron, Markdown, Game engine, Minecraft, Material design, Library, Lua, Elixir, Nim, upptime">and 30 more...</div>
                         </div>
                     </section>
                 </div>
@@ -3521,7 +3521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gabime/spdlog</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3563,7 +3563,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnthonyCalandra/modern-cpp-features</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3601,7 +3601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x64dbg/x64dbg</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3830,7 +3830,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/07/2021, 06:22  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 24/07/2021, 07:16  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
