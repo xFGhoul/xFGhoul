@@ -3454,7 +3454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erlang/otp</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3809,7 +3809,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/07/2021, 12:27  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 26/07/2021, 13:25  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
