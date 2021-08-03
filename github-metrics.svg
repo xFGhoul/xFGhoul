@@ -3476,7 +3476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ceph/ceph</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3831,7 +3831,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 03/08/2021, 13:23  with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 03/08/2021, 14:14  with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
