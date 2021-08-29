@@ -32,6 +32,8 @@
 
 ---
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/433026067050266634?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/433026067050266634)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat" alt="xfghoul" /> </p>
 
 # Github Stats
