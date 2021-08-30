@@ -37,4 +37,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat" alt="xfghoul" /> </p>
 
 # Github Stats
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact" alt="xfghoul" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xfghoul&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact"/>
+</a>
