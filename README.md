@@ -5,6 +5,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.py**, **.cpp**, **.tsx**
+- 💻 I am currently working on [Mai](https://github.com/xFGhoul/Mai), [Joyride](https://github.com/xFGhoul/Joyride), [PycordUtils](https://github.com/xFGhoul/PycordUtils) And Much More...
 - 📖 I am currently reading [The Beginning After The End](https://www.lightnovelpub.com/novel/the-beginning-after-the-end-novel-27072145)
 - 💬 Talk to me about anything
 
