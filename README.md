@@ -43,3 +43,7 @@
 </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat" alt="xfghoul" /> </p>
+
+# Metrics
+
+![Metrics](https://github.com/xFGhoul/xFGhoul/blob/master/github-metrics.svg)
