@@ -24,7 +24,7 @@
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v4ywvr4aqj8bt5w2zpx6t7iqg&cover_image=true&theme=default)
