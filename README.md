@@ -24,7 +24,7 @@
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ---
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v4ywvr4aqj8bt5w2zpx6t7iqg&cover_image=true&theme=default)
@@ -42,7 +42,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact"/>
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat" alt="xfghoul" /> </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat-square" alt="xfghoul" /> </p>
 
 # Metrics
 
