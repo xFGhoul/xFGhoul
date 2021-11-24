@@ -15,3 +15,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_stargazers: yes
