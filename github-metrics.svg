@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ro-py/ro.py</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evaera/RoVer</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1653,7 +1653,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HyNetwork/hysteria</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1924,7 +1924,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 6 Dec 2021, 18:41:22  with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 6 Dec 2021, 19:12:45  with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
