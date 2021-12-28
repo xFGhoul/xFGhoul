@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/kit</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>puppeteer/puppeteer</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1653,7 +1653,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/vuepress</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2081,7 +2081,7 @@ Changes:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2021, 02:41:06  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Dec 2021, 03:13:13  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
