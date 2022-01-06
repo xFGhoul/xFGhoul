@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>j00ru/windows-syscalls</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)</div>
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hku-mars/r3live</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package</div>
@@ -332,7 +332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elastic/kibana</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your window into the Elastic Stack</div>
@@ -385,7 +385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NMan1/Rainbow-Six-Cheat</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Features a kernel driver - fully functional login loader with a MySQL database - HWID checker - licensing system - r6 cheat features - menu</div>
@@ -736,7 +736,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2022, 20:13:21  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 21:11:19  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
