@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ge0rg3/requests-ip-rotator</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DrNseven/D3D11-Worldtoscreen-Finder</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">D3D11 Worldtoscreen Finder, dx11 w2s, d3d11 w2s, esp, world to screen</div>
@@ -332,7 +332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReClassNET/ReClass.NET</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">More than a ReClass port to the .NET platform.</div>
@@ -385,7 +385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pistacheio/pistache</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-performance REST toolkit written in C++</div>
@@ -742,7 +742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2022, 20:14:16  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 21:11:21  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
