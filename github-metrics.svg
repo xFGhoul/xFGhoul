@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickcjk/imgui-notify</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A (very) simple notification wrapper for Dear ImGui</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/folly</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source C++ library developed and used at Facebook.</div>
@@ -319,7 +319,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        882
+                                        883
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DioxusLabs/dioxus</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fritzone/obfy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny C++ obfuscation framework</div>
@@ -755,7 +755,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2022, 18:47:38  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 8 Jan 2022, 19:10:31  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
