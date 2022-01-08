@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arrow-py/arrow</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏹 Better dates &amp; times for Python</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ge0rg3/requests-ip-rotator</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DrNseven/D3D11-Worldtoscreen-Finder</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">D3D11 Worldtoscreen Finder, dx11 w2s, d3d11 w2s, esp, world to screen</div>
@@ -385,7 +385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReClassNET/ReClass.NET</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">More than a ReClass port to the .NET platform.</div>
@@ -742,7 +742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2022, 00:44:14  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 8 Jan 2022, 02:02:24  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
