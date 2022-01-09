@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rogerxiii/kernel-codecave-poc</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proof of concept on how to bypass some limitations of a manual mapped driver</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickcjk/imgui-notify</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A (very) simple notification wrapper for Dear ImGui</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/folly</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source C++ library developed and used at Facebook.</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DioxusLabs/dioxus</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.</div>
@@ -766,7 +766,7 @@ Changes:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2022, 04:16:50  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 05:13:30  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
