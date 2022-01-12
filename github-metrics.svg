@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drinkpositive/xprvboom</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lagcomp/csgo_sdk</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">c++20 internal csgo-hack base</div>
@@ -333,7 +333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smefpw/smefs-Indigo-Remastered</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Indigo 4.0</div>
@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hrt/CSGO</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CSGO "base" with aimbot, BSP parsing, bunnyhop, triggerbot, aimassist, no flash and walkbot, glow esp</div>
@@ -736,7 +736,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2022, 16:20:04  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 17:19:30  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
