@@ -42,10 +42,10 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BadPlayer555/KernelGDIDraw</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The program draws with win32k gdi functions in the kernel while NtGdiDdDDISubmitCommand is being hooked.</div>
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwyl/english-words</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -333,7 +333,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>leerob/leerob.io</span>
-                                            <span>starred 7 hours ago</span>
+                                            <span>starred 9 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.</div>
@@ -386,7 +386,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>Carlos487/awesome-wpf</span>
-                                            <span>starred 22 hours ago</span>
+                                            <span>starred 24 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">A collection of awesome WPF resources, libraries and UI controls.</div>
@@ -448,13 +448,8 @@
                                 <div class="entry">
                                     <span class="value">19</span>
                                     <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    29
-                                    <div class="bottom">Dec.</div>
-                                </div>
-                                <div class="entry">
-                                    <span class="value"></span>
-                                    <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                     30
+                                    <div class="bottom">Dec.</div>
                                 </div>
                                 <div class="entry">
                                     <span class="value"></span>
@@ -516,6 +511,11 @@
                                     <span class="value"></span>
                                     <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                     11
+                                </div>
+                                <div class="entry">
+                                    <span class="value"></span>
+                                    <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    12
                                 </div>
                             </div>
                         </section>
@@ -525,13 +525,8 @@
                                 <div class="entry">
                                     <span class="value"></span>
                                     <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                    29
-                                    <div class="bottom">Dec.</div>
-                                </div>
-                                <div class="entry">
-                                    <span class="value"></span>
-                                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                     30
+                                    <div class="bottom">Dec.</div>
                                 </div>
                                 <div class="entry">
                                     <span class="value"></span>
@@ -593,6 +588,11 @@
                                     <span class="value"></span>
                                     <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                     11
+                                </div>
+                                <div class="entry">
+                                    <span class="value"></span>
+                                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                    12
                                 </div>
                             </div>
                         </section>
@@ -743,7 +743,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 11 Jan 2022, 23:13:38  with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 12 Jan 2022, 00:45:14  with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
