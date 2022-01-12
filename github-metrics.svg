@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BadPlayer555/KernelGDIDraw</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The program draws with win32k gdi functions in the kernel while NtGdiDdDDISubmitCommand is being hooked.</div>
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwyl/english-words</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -743,7 +743,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 12 Jan 2022, 04:16:57  with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 12 Jan 2022, 05:14:05  with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
