@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adamyaxley/Obfuscate</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Guaranteed compile-time string literal obfuscation header-only library for C++14</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andrivet/ADVobfuscator</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obfuscation library based on C++11/14 and metaprogramming</div>
@@ -332,7 +332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d35ha/CallObfuscator</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obfuscate specific windows apis with different apis</div>
@@ -379,7 +379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>runestubbe/Crinkler</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Crinkler is an executable file compressor (or rather, a compressing linker) for Windows for compressing small demoscene executables. As of 2020, it is the most widely used tool for compressing 1k/4k/8k intros.</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 06:16:02  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 07:13:00  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
