@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r-lyeh-archived/auth</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, lightweight and safe client-server authentication system. Written in C++</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>landhb/HideProcess</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A basic Direct Kernel Object Manipulation rootkit that removes a process from the EPROCESS list, hiding it from the Task Manager</div>
@@ -332,7 +332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stevemk14ebr/RETools</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My reversing tools. Some custom, some not.</div>
@@ -385,7 +385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JKornev/hidden</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 03:15:23  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 04:16:57  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
