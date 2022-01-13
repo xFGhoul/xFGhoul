@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cnjinhao/nana</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a modern C++ GUI library</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marzer/tomlplusplus</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Header-only TOML config file parser and serializer for C++17.</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Neargye/nameof</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hasherezade/pe-sieve</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).</div>
@@ -741,7 +741,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 17:23:38  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 18:15:19  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
