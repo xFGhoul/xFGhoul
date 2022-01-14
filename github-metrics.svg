@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emilk/egui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">egui: an easy-to-use immediate mode GUI in pure Rust</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrousavy/react-native-vision-camera</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📸 The Camera library that sees the vision.</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/astro</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build fast websites, faster. 🚀🧑‍🚀✨</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remix-run/remix</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build Better Websites. Create modern, resilient user experiences with web fundamentals.</div>
@@ -739,7 +739,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2022, 04:17:03  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 14 Jan 2022, 05:14:15  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
