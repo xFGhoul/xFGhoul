@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xTeJk/SoT_ESP</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sea of Thieves - Advanced ESP</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grillazz/fastapi-redis</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Showcase of Redis integration with Python FastAPI framework as API backend for RDKit: Open-Source Cheminformatics Software</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kharos102/IOCTLDump</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -420,7 +420,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        442
+                                        444
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -748,7 +748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2022, 10:13:44  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 11:10:39  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
