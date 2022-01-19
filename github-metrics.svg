@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Instagram/MonkeyType</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python library that generates static type annotations by collecting runtime types</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chakra-ui/awesome-chakra-ui</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Chakra UI-related awesomeness</div>
@@ -735,7 +735,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2022, 22:12:15  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 23:12:32  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
