@@ -47,6 +47,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact"/>
 </a>
 
+  ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/master/dist/github-contribution-grid-snake.svg)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
