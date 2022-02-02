@@ -233,7 +233,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mactec0/Kernelmode-manual-mapping-through-IAT</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manual mapping without creating any threads, with rw only access</div>
@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webpack/webpack</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</div>
@@ -333,7 +333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>i3/i3</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager</div>
@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fendevel/Guide-to-Modern-OpenGL-Functions</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guide to using modern OpenGL functions.</div>
@@ -765,7 +765,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2022, 19:10:36  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 20:13:12  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
