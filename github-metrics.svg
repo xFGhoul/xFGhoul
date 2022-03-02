@@ -286,7 +286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beefproject/beef</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Browser Exploitation Framework Project</div>
@@ -764,7 +764,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 18:45:12  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 19:11:23  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
