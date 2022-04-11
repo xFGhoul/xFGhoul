@@ -233,7 +233,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcicen/ctop</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Top-like interface for container metrics</div>
@@ -777,7 +777,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2022, 03:40:41  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 11 Apr 2022, 04:17:56  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
