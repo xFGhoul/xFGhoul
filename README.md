@@ -50,7 +50,7 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,16 +67,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   56 mins             ██████████████████████░░░   89.77% 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 2 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Mai                      1 hr 2 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 2 mins         █████████████████████████   100.0%
 
 ```
 
