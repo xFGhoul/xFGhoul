@@ -233,7 +233,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serverless/serverless</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –</div>
@@ -771,7 +771,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 18:52:16  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 19:11:24  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
