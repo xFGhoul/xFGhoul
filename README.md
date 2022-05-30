@@ -6,7 +6,7 @@
 
 - 🏦 I'm a Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I am currently Learning [Reverse Engineering](https://github.com/tylerha97/awesome-reversing)
-- 💻 I am currently working on [Mai](https://github.com/xFGhoul/Mai/)
+- 💻 I am currently working on [Mai](https://github.com/TeamMai/Mai/)
 - 📖 I am currently reading [The Beginning After The End](https://www.lightnovelpub.com/novel/the-beginning-after-the-end-novel-27072145)
 
 ---
