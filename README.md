@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **I'm an Early 🐤** 
 
@@ -69,8 +69,7 @@
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.0%
