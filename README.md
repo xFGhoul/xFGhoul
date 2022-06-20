@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -69,16 +69,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   28 mins             ██████████████████████░░░   89.74% 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Auto-Promo               31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.0%
 
 ```
 
