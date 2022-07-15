@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mgeeky/ThreadStackSpoofer</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts.</div>
@@ -333,7 +333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NotPrab/.NET-Deobfuscator</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lists of .NET Deobfuscator and Unpacker (Open Source)</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gentilkiwi/mimikatz</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little tool to play with Windows security</div>
@@ -757,7 +757,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2022, 05:45:18  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 06:17:05  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
