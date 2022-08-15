@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/patroni</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes</div>
@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker-slim/docker-slim</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)</div>
@@ -333,7 +333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>acidicoala/SmokeAPI</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Legit DLC Unlocker for Steamworks</div>
@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juicedata/juicefs</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JuiceFS is a distributed POSIX file system built on top of Redis and S3.</div>
@@ -748,7 +748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2022, 05:40:29  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 06:18:47  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
