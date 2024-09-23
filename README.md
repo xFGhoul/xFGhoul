@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,16 +68,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             ███████████████████████░░   90.60 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Calisthenics             8 mins              ██████████████████░░░░░░░   72.84 % 
+Protein                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Hypertrophy              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 
