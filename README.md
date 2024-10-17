@@ -50,9 +50,9 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,17 +68,17 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 12 mins        █████████████████████████   100.00 % 
+HTML                     1 hr 43 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-okay                     1 hr 11 mins        █████████████████████████   99.62 % 
-DIG211                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+okay                     1 hr 43 mins        █████████████████████████   99.74 % 
+DIG211                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 
