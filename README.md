@@ -68,16 +68,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 36 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DIG211 Assignment        1 hr 17 mins        ████████████████████░░░░░   80.79 % 
+Raysean DIG211 Assignment18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
