@@ -5,8 +5,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me
 
 - 🏦 I'm a Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I am currently Learning [Reverse Engineering](https://github.com/tylerha97/awesome-reversing)
-- 💻 I am currently working on [Mai](https://github.com/TeamMai/Mai/)
+- 💻 I am currently Learning [Rust]([https://github.com/tylerha97/awesome-reversing](https://www.rust-lang.org/))
+- 💻 I am currently working on [Hypertrophy](https://github.com/TeamHypertrophy/)
 - 📖 I am currently reading [The Beginning After The End](https://www.lightnovelpub.com/novel/the-beginning-after-the-end-novel-27072145)
 
 ---
