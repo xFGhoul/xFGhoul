@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1514" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1504" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    165k added, 82.4k removed
+                                    158k added, 43.9k removed
                                 </div>
                             </section>
                             <section>
@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cybecho/Windows_Setting_dotfiles</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">by glazeWM , PowerToys , WSL2 , etc ...</div>
@@ -607,62 +607,14 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#8 How Do I Run Migrations in a Rocket Context</span>
+                                        <span class="issue">#8 Bug: TypeError: ProtectorObservable.dispatch() missing 1 required positional argument: 'module'</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by xFGhoul in <span class="repo">niroco/diesel_async_migrations</span></div>
-                                    <div class="comment">
-                                        Hey, you've just responded at the moment of me turning off my laptop lol, it's midnight and I have an exam tomorrow so I need to sleep but my repository is actually public at:
-https://github.com/TeamHypertrophy/Protein
-I've taken a look at the quick look at the gist and the code looks very familiar to what my implementation is (without the
-                                        <code>PoolBuilder</code>
-                                        )
-                                    </div>
+                                    <div>opened by SORROWMX in <span class="repo">xFGhoul/PythonProtector</span></div>
+                                    <div class="comment">Hey there, just pushed an commit to master that should hopefully update this module to a somewhat usable version..going to bed now.</div>
                                 </div>
-                                <div class="timestamp">18 Dec 2024, 04:00:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xFGhoul/xFGhoul</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d8a5e3c</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">18 Dec 2024, 03:27:52</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xFGhoul/xFGhoul</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#87ec051</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">18 Dec 2024, 02:55:16</div>
+                                <div class="timestamp">18 Dec 2024, 04:33:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -679,11 +631,11 @@ I've taken a look at the quick look at the gist and the code looks very familiar
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fcb0a33</div>
-                                        <div class="message">🚨 Update Remote</div>
+                                        <div class="sha">#986c23b</div>
+                                        <div class="message">🚑 Fix `event.dispatch` not providing `List[str]` argument</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Dec 2024, 02:13:47</div>
+                                <div class="timestamp">18 Dec 2024, 04:32:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -694,17 +646,53 @@ I've taken a look at the quick look at the gist and the code looks very familiar
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">xFGhoul/Rei</span>
+                                        <span class="repo">xFGhoul/xFGhoul</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c10800</div>
-                                        <div class="message">🚨 Update Remote</div>
+                                        <div class="sha">#14fc937</div>
+                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Dec 2024, 02:10:39</div>
+                                <div class="timestamp">18 Dec 2024, 04:20:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2 Bug: When running a program with Fiddler open, a requests.exceptions.ProxyError is raised</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mossan0101 in <span class="repo">xFGhoul/PythonProtector</span></div>
+                                    <div class="comment">closed due to inactivity.</div>
+                                </div>
+                                <div class="timestamp">18 Dec 2024, 04:12:14</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#2 Bug: When running a program with Fiddler open, a requests.exceptions.ProxyError is raised</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mossan0101 in <span class="repo">xFGhoul/PythonProtector</span></div>
+                                </div>
+                                <div class="timestamp">18 Dec 2024, 04:12:13</div>
                             </section>
                         </div>
                     </section>
@@ -766,7 +754,7 @@ I've taken a look at the quick look at the gist and the code looks very familiar
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 18:48:00  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 19:12:18  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
