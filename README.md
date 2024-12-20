@@ -41,10 +41,10 @@
 <h3 align="left"> • Github Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xfghoul&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
+  <img align="center" src="https://readme-stats-three-sand.vercel.app/api?username=xfghoul&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact&hide=cpp,c++,c,c#"/>
+  <img align="center" src="https://readme-stats-three-sand.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact&hide=cpp,c++,c,c#"/>
 </a>
 
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
