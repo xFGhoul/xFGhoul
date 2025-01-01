@@ -24,6 +24,10 @@
 <p align="left"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"/>  </p>
 
 ---
+<h3 align="left"> • Sponsor Me</h3>
+<p align="left">  <a href="https://www.patreon.com/c/user/shop?u=19438936"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+
+---
 <h3 align="left"> • Contact Me</h3>
  <a href="http://discord.com/users/heartghoul"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a> <a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
     
