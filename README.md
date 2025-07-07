@@ -4,10 +4,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me
 
-- 🏦 I'm a Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I am currently Learning [Rust](https://www.rust-lang.org/)
-- 💻 I am currently working on [Hypertrophy](https://github.com/TeamHypertrophy/)
-- 📖 I am currently reading [The Beginning After The End](https://www.lightnovelpub.com/novel/the-beginning-after-the-end-novel-27072145)
+- 🏦 Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 Currently Learning [Rust](https://www.rust-lang.org/)
+- 💻 Currently Working On [Hypertrophy](https://github.com/TeamHypertrophy/)
 
 ---
 
@@ -17,11 +16,11 @@
  ---
 
 <h3 align="left"> • Frameworks</h3>
-<p align="left"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
+<p align="left"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
   
 ---
 <h3 align="left"> • Tools</h3>
-<p align="left"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"/>  </p>
+<p align="left"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"/>  </p>
 
 ---
 <h3 align="left"> • Sponsor Me</h3>
@@ -29,7 +28,7 @@
 
 ---
 <h3 align="left"> • Contact Me</h3>
- <a href="http://discord.com/users/heartghoul"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a> <a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
+<a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
     
 ---
 
@@ -45,10 +44,10 @@
 <h3 align="left"> • Github Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-three-sand.vercel.app/api?username=xfghoul&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xfghoul&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-three-sand.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact&hide=cpp,c++,c,c#"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact"/>
 </a>
 
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
