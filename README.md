@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-764%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,20 +71,16 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 mins              ███████████░░░░░░░░░░░░░░   43.12 % 
-HTML                     4 mins              █████████░░░░░░░░░░░░░░░░   35.37 % 
-Text                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dotfiles                 11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
