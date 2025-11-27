@@ -53,9 +53,9 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,11 +71,9 @@
 
 ```text
 💬 Programming Languages: 
-TOML                     23 mins             █████████████████░░░░░░░░   69.88 % 
-Rust                     9 mins              ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Rust                     22 mins             █████████████████░░░░░░░░   66.31 % 
+TOML                     10 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
 VS Code                  33 mins             █████████████████████████   100.00 % 
