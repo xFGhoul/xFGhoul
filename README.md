@@ -53,7 +53,7 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,24 +71,23 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 8 mins        ██████████████████░░░░░░░   70.62 % 
-JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-CSS                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Rust                     5 hrs 8 mins        ██████████████████████░░░   89.27 % 
+TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Sakura                   5 hrs 16 mins       ██████████████████░░░░░░░   72.60 % 
-Unknown Project          1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-docs                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-overline-zebar           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-FastCat                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Sakura                   5 hrs 16 mins       ███████████████████████░░   91.78 % 
+docs                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+b762736                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  7 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
