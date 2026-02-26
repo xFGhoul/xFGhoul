@@ -53,7 +53,7 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,23 +71,22 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 26 mins        █████████████░░░░░░░░░░░░   51.16 % 
-TypeScript               56 mins             ████████░░░░░░░░░░░░░░░░░   33.31 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               56 mins             █████████████████░░░░░░░░   68.94 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Sakura                   1 hr 28 mins        █████████████░░░░░░░░░░░░   52.06 % 
-Home                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-docs                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Unknown Project          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Home                     42 mins             █████████████░░░░░░░░░░░░   51.66 % 
+Unknown Project          20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+docs                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
