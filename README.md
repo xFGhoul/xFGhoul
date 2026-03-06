@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -71,20 +71,21 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     9 mins              ███████████░░░░░░░░░░░░░░   45.84 % 
-SSH Config               9 mins              ███████████░░░░░░░░░░░░░░   44.58 % 
-Astro                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Astro                    49 mins             ██████████████░░░░░░░░░░░   54.28 % 
+CSS                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+YAML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+SSH Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Home                     11 mins             ██████████████░░░░░░░░░░░   55.42 % 
-Unknown Project          9 mins              ███████████░░░░░░░░░░░░░░   44.58 % 
+Home                     1 hr 9 mins         ███████████████████░░░░░░   77.04 % 
+Unknown Project          20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 
