@@ -53,7 +53,7 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -71,21 +71,20 @@
 
 ```text
 💬 Programming Languages: 
-Astro                    49 mins             ██████████████░░░░░░░░░░░   54.28 % 
-CSS                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-YAML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-SSH Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Astro                    47 mins             █████████████████░░░░░░░░   67.43 % 
+CSS                      19 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Home                     1 hr 9 mins         ███████████████████░░░░░░   77.04 % 
-Unknown Project          20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Home                     58 mins             █████████████████████░░░░   83.38 % 
+Unknown Project          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 
