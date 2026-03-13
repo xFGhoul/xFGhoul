@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -71,20 +71,16 @@
 
 ```text
 💬 Programming Languages: 
-Astro                    47 mins             ███████████████░░░░░░░░░░   61.54 % 
-CSS                      25 mins             ████████░░░░░░░░░░░░░░░░░   33.77 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+CSS                      6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Home                     58 mins             ███████████████████░░░░░░   76.10 % 
-Unknown Project          18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Unknown Project          6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 
