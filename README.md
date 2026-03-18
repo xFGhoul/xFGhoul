@@ -60,10 +60,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                230 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-🌆 Daytime                416 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌃 Evening                334 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
-🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌞 Morning                232 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+🌆 Daytime                416 commits         ██████████░░░░░░░░░░░░░░░   39.77 % 
+🌃 Evening                334 commits         ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 
 
@@ -71,16 +71,16 @@
 
 ```text
 💬 Programming Languages: 
-CSS                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
