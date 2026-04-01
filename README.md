@@ -60,10 +60,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-🌆 Daytime                426 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
-🌃 Evening                338 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+🌞 Morning                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+🌆 Daytime                426 commits         ██████████░░░░░░░░░░░░░░░   39.96 % 
+🌃 Evening                340 commits         ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 
@@ -71,16 +71,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               38 mins             ██████████████████░░░░░░░   70.37 % 
+Bash                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kaneo                    54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 
