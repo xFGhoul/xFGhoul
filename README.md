@@ -53,17 +53,17 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                237 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-🌆 Daytime                429 commits         ██████████░░░░░░░░░░░░░░░   38.75 % 
-🌃 Evening                374 commits         ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌙 Night                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+🌞 Morning                237 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+🌆 Daytime                429 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
+🌃 Evening                344 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 
@@ -71,23 +71,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ███████████████████░░░░░░   75.99 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Astro                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               48 mins             ████████████████████░░░░░   81.09 % 
+Astro                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kaneo                    54 mins             ████████████░░░░░░░░░░░░░   47.61 % 
-astro-app                40 mins             █████████░░░░░░░░░░░░░░░░   35.04 % 
-express                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-bureau                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+astro-app                40 mins             █████████████████░░░░░░░░   66.89 % 
+express                  19 mins             ████████░░░░░░░░░░░░░░░░░   32.70 % 
+bureau                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 
