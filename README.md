@@ -53,16 +53,16 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                237 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-🌆 Daytime                429 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
-🌃 Evening                344 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌞 Morning                237 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌆 Daytime                429 commits         ██████████░░░░░░░░░░░░░░░   39.80 % 
+🌃 Evening                345 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
 🌙 Night                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
@@ -71,22 +71,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               52 mins             ██████████████████░░░░░░░   70.49 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Astro                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               53 mins             █████████████████░░░░░░░░   68.55 % 
+JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Astro                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astro-app                40 mins             ██████████████░░░░░░░░░░░   54.15 % 
-express                  33 mins             ███████████░░░░░░░░░░░░░░   45.51 % 
-bureau                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+astro-app                40 mins             █████████████░░░░░░░░░░░░   51.76 % 
+express                  37 mins             ████████████░░░░░░░░░░░░░   47.92 % 
+bureau                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 
