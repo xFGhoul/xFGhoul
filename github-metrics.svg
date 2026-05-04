@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pacekit/tanstack-better-auth-starter</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enterprise grade starter kit for Tanstack Start. Built for modern products</div>
@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cherishh/tanstack-start-template</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make Tanstack Start(with all modern pieces) works on cloudflare worker.</div>
@@ -333,7 +333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jillesme/tanstack-drizzle-d1-durable-object-starter</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Foundation to Your Next Full Stack TanStack App on Cloudflare</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kvnxiao/tauri-tanstack-start-react-template</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Tauri 2.0 + TanStack Start React template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured</div>
@@ -630,7 +630,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2026, 13:50:21  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2026, 15:58:58  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
