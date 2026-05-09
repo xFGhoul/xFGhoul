@@ -60,9 +60,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                564 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-🌆 Daytime                803 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌃 Evening                1010 commits        ██████████░░░░░░░░░░░░░░░   39.51 % 
+🌞 Morning                565 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+🌆 Daytime                803 commits         ████████░░░░░░░░░░░░░░░░░   31.39 % 
+🌃 Evening                1011 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
 🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 ```
 
@@ -71,16 +71,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+TypeScript               2 hrs 17 mins       ████████████████████████░   94.86 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  3 mins              █████████████████████████   100.00 % 
+express                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
