@@ -53,17 +53,17 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                565 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-🌆 Daytime                803 commits         ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌃 Evening                1011 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+🌞 Morning                565 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+🌆 Daytime                803 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+🌃 Evening                1047 commits        ██████████░░░░░░░░░░░░░░░   40.36 % 
+🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 
 
@@ -71,18 +71,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ████████████████████████░   94.86 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+TypeScript               3 hrs 54 mins       ███████████████████████░░   93.49 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  2 hrs 24 mins       █████████████████████████   100.00 % 
+express                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
