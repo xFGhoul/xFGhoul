@@ -53,17 +53,17 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                565 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-🌆 Daytime                803 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
-🌃 Evening                1047 commits        ██████████░░░░░░░░░░░░░░░   40.36 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
+🌃 Evening                1047 commits        ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 
 
@@ -71,18 +71,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       ███████████████████████░░   93.49 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TypeScript               3 hrs 55 mins       ███████████████████████░░   93.51 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  4 hrs 10 mins       █████████████████████████   100.00 % 
+express                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
