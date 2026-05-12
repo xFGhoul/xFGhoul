@@ -53,17 +53,17 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
-🌃 Evening                1047 commits        ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+🌃 Evening                1052 commits        ██████████░░░░░░░░░░░░░░░   40.41 % 
+🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 ```
 
 
