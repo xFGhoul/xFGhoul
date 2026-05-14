@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icydotdev/pocket</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pocket-sized React Context syntax.</div>
@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shrpp/ovlt</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight OIDC Authorization Server in Rust. Authorization Code + PKCE, RS256, multi-tenant RLS, AES-256-GCM zero-knowledge encryption. ~20 MB RAM.</div>
@@ -622,7 +622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2026, 16:57:45  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2026, 18:54:08  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
