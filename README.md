@@ -53,40 +53,7 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
-🌃 Evening                1052 commits        ██████████░░░░░░░░░░░░░░░   40.41 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               7 hrs 18 mins       ██████████████████████░░░   88.63 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 14 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-express                  8 hrs 7 mins        █████████████████████████   98.61 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-
-💻 Operating System: 
-Windows                  8 hrs 14 mins       █████████████████████████   100.00 % 
-```
 
 
 <!--END_SECTION:waka-->
