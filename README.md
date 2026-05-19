@@ -53,15 +53,17 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
-🌃 Evening                1026 commits        ██████████░░░░░░░░░░░░░░░   39.81 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌃 Evening                1028 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 
@@ -69,22 +71,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 27 mins       ███████████████████░░░░░░   76.14 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+TypeScript               3 hrs 26 mins       ███████████████████░░░░░░   76.00 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  4 hrs               ██████████████████████░░░   88.24 % 
-GITS                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+express                  3 hrs 59 mins       ██████████████████████░░░   88.16 % 
+GITS                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
