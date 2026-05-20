@@ -55,39 +55,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                566 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-🌆 Daytime                806 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌃 Evening                1028 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ███████████████████░░░░░░   76.00 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-express                  3 hrs 59 mins       ██████████████████████░░░   88.16 % 
-GITS                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-
-💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
