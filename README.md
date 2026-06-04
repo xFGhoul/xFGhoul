@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                566 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-🌆 Daytime                809 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌃 Evening                1015 commits        ██████████░░░░░░░░░░░░░░░   39.51 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+🌞 Morning                566 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+🌆 Daytime                809 commits         ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌃 Evening                1017 commits        ██████████░░░░░░░░░░░░░░░   39.56 % 
+🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
 
@@ -71,16 +71,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-express                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
