@@ -57,6 +57,32 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                214 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+🌆 Daytime                398 commits         ██████████░░░░░░░░░░░░░░░   41.24 % 
+🌃 Evening                295 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌙 Night                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
