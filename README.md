@@ -53,9 +53,9 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -71,22 +71,21 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     19 mins             ██████████████████░░░░░░░   72.46 % 
-Rust                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+INI                      4 mins              ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+TypeScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+XML Property List        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+PowerShell               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Home                     11 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
-express                  8 mins              ████████░░░░░░░░░░░░░░░░░   31.46 % 
-GITS                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Blog                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+dotfiles                 12 mins             ████████████████████░░░░░   79.91 % 
+express                  3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
