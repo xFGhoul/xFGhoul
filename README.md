@@ -53,17 +53,17 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌃 Evening                298 commits         ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+🌞 Morning                214 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   41.35 % 
+🌃 Evening                294 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
+🌙 Night                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
@@ -71,22 +71,19 @@
 
 ```text
 💬 Programming Languages: 
-INI                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Rust                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-XML Property List        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+TypeScript               3 mins              ████████████████░░░░░░░░░   63.86 % 
+Rust                     1 min               ████████░░░░░░░░░░░░░░░░░   33.52 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dotfiles                 12 mins             ██████████████████░░░░░░░   70.04 % 
-express                  3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-GITS                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+express                  3 mins              █████████████████░░░░░░░░   66.48 % 
+GITS                     1 min               ████████░░░░░░░░░░░░░░░░░   33.52 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 
