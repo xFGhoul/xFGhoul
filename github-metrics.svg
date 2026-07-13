@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opencoredev/email-sdk</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Email SDK is a lightweight TypeScript library for sending email through Resend, Postmark, SendGrid, Mailgun, Brevo, SMTP, and more</div>
@@ -631,7 +631,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2026, 21:52:53  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jul 2026, 22:53:05  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
