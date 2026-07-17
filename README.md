@@ -71,17 +71,16 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     5 mins              ███████████████░░░░░░░░░░   61.42 % 
-TypeScript               3 mins              ██████████░░░░░░░░░░░░░░░   38.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-express                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
