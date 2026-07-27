@@ -53,17 +53,19 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   40.38 % 
-🌃 Evening                317 commits         ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
+🌃 Evening                321 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 
 
@@ -81,6 +83,12 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
