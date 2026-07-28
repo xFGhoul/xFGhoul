@@ -53,19 +53,15 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2054%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
-🌃 Evening                321 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌃 Evening                323 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 
@@ -73,16 +69,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               55 mins             ██████████████████████░░░   88.67 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+express                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
