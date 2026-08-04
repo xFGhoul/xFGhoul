@@ -62,10 +62,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌃 Evening                323 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+🌆 Daytime                399 commits         ██████████░░░░░░░░░░░░░░░   40.38 % 
+🌃 Evening                317 commits         ████████░░░░░░░░░░░░░░░░░   32.09 % 
+🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 
@@ -73,18 +73,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               55 mins             ██████████████████████░░░   88.67 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-express                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
