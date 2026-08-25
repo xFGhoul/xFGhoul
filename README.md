@@ -57,15 +57,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-🌆 Daytime                402 commits         ██████████░░░░░░░░░░░░░░░   40.65 % 
-🌃 Evening                312 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+🌞 Morning                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌆 Daytime                402 commits         ██████████░░░░░░░░░░░░░░░   40.48 % 
+🌃 Evening                316 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 
@@ -73,22 +73,20 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       ██████████████████████░░░   89.85 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Rust                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               7 hrs 20 mins       ███████████████████████░░   92.27 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  7 hrs 57 mins       ████████████████████████░   97.37 % 
-GITS                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Home                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+express                  7 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
