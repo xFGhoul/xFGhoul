@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Loriage/Beszel-Swift-App</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beszel Companion is an unofficial native iOS client for the Beszel server monitoring platform.</div>
@@ -634,7 +634,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2026, 04:34:28  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2026, 05:27:46  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
