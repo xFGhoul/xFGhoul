@@ -57,7 +57,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -73,20 +73,20 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       ███████████████████████░░   92.27 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               4 hrs 41 mins       ████████████████████████░   97.15 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  7 hrs 57 mins       █████████████████████████   100.00 % 
+express                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
