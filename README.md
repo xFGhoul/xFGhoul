@@ -73,20 +73,19 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       ████████████████████████░   97.15 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               1 hr 58 mins        ████████████████████████░   94.78 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-express                  4 hrs 49 mins       █████████████████████████   100.00 % 
+express                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
