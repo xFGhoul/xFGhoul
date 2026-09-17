@@ -57,7 +57,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -73,21 +73,21 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     42 mins             ██████████████████░░░░░░░   73.34 % 
-TOML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Rust                     44 mins             ███████████████████░░░░░░   74.33 % 
+TOML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GITS                     53 mins             ████████████████████████░   94.04 % 
-express                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+GITS                     56 mins             ████████████████████████░   94.26 % 
+express                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
