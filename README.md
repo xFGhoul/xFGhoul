@@ -53,11 +53,11 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -73,21 +73,21 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     35 mins             █████████████████████░░░░   82.68 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Rust                     33 mins             ████████████████████░░░░░   81.74 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GITS                     30 mins             ██████████████████░░░░░░░   70.40 % 
-Nexus                    12 mins             ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+GITS                     28 mins             █████████████████░░░░░░░░   68.79 % 
+Nexus                    12 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
