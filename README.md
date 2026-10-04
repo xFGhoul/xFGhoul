@@ -62,10 +62,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-🌆 Daytime                403 commits         ██████████░░░░░░░░░░░░░░░   39.55 % 
-🌃 Evening                340 commits         ████████░░░░░░░░░░░░░░░░░   33.37 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+🌞 Morning                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+🌆 Daytime                403 commits         ██████████░░░░░░░░░░░░░░░   39.01 % 
+🌃 Evening                354 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 
@@ -73,20 +73,16 @@
 
 ```text
 💬 Programming Languages: 
-TOML                     1 min               ████████████████████░░░░░   79.72 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-reg                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-PowerShell               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dotfiles                 1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
