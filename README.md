@@ -57,15 +57,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-🌆 Daytime                404 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
-🌃 Evening                350 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+🌞 Morning                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+🌆 Daytime                406 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌃 Evening                350 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
 
 
@@ -73,16 +73,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+reg                      6 mins              ████████████████░░░░░░░░░   65.61 % 
+INI                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+PowerShell               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dotfiles                 9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
