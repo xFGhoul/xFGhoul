@@ -53,11 +53,11 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -73,22 +73,22 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      24 mins             █████████░░░░░░░░░░░░░░░░   34.25 % 
-JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-INI                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-PowerShell               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-reg                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Lua                      24 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
+JSON                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+INI                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 mins             ██████████░░░░░░░░░░░░░░░   41.55 % 
-Mio                      21 mins             ████████░░░░░░░░░░░░░░░░░   30.04 % 
-dotfiles                 20 mins             ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Unknown Project          32 mins             █████████████░░░░░░░░░░░░   50.18 % 
+Mio                      21 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
+dotfiles                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
