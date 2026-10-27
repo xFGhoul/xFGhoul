@@ -53,7 +53,7 @@
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2016%20mins-blue?style=flat)
 
@@ -62,10 +62,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                218 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-🌆 Daytime                406 commits         ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌃 Evening                340 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🌞 Morning                218 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+🌆 Daytime                406 commits         ██████████░░░░░░░░░░░░░░░   39.23 % 
+🌃 Evening                352 commits         █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 
 
@@ -73,22 +73,23 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      24 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
-JSON                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-INI                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Lua                      24 mins             █████████░░░░░░░░░░░░░░░░   35.18 % 
+JSON                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+INI                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+C++                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          32 mins             █████████████░░░░░░░░░░░░   50.18 % 
-Mio                      21 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
-dotfiles                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Unknown Project          32 mins             ████████████░░░░░░░░░░░░░   47.05 % 
+Mio                      24 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+dotfiles                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+GITS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
