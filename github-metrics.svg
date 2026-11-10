@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SteamClientHomebrew/Millennium</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source framework for Steam Client themes and plugins</div>
@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ClearURLs/Addon</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.</div>
@@ -636,7 +636,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2026, 01:51:40  with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 10 Nov 2026, 09:09:15  with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
